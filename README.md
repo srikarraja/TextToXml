@@ -38,7 +38,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://github.com/srikarraja/TextToXml/) and ![Image](TextToXml/Capture.PNG)
+[Link](https://github.com/srikarraja/TextToXml/) and ![TextToXml/Capture.PNG]
 ```
 
 For more details see [GitHub Flavored Markdown](https://srikarraja.github.io/TextToXml/).
